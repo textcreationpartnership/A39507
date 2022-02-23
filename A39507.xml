@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices, a proclamation for putting the laws in execution against forestalling, regrating and ingrossing of corn ...</title>
+            <author>England and Wales. Lords Justices.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39507</idno>
+            <idno type="STC">Wing E955</idno>
+            <idno type="STC">ESTC R39451</idno>
+            <idno type="EEBO-CITATION">18419831</idno>
+            <idno type="OCLC">ocm 18419831</idno>
+            <idno type="VID">107528</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107528)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices, a proclamation for putting the laws in execution against forestalling, regrating and ingrossing of corn ...</title>
+                  <author>England and Wales. Lords Justices.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Whitehall, the thirteenth day of October, 1698. In the tenth year of His Majesties reign."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:107528:1" rendition="simple:additions"/>
+            <head>By the Lords Juſtices, A PROCLAMATION For putting the Laws in Execution againſt Foreſtalling, Regrating and Ingroſſing of Corn.</head>
+            <opener>
+               <signed>Tho. Cantuar. Sommers C. Romney, Cha. Montague.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſeveral Good Statutes have been made againſt Foreſtalling, Regrating and Ingroſſing of Corn, and amongſt the reſt, An Act in the Fifth and Sixth Years of the Reign of King <hi>Edward</hi> the Sixth, whereby Buying any Corn coming by Land, or by Water to any Market or Fair, or to any City, Port, Haven or Creek of this Realm or <hi>Wales,</hi> from any Parts beyond Sea, to be Sold, or Bargaining or Contracting before the ſame ſhall be Brought in<g ref="char:EOLhyphen"/>to the Markets, Fairs, City, Port, Haven or Creek, to be Sold, or Moving by Word, Letter, Meſſage, or otherwiſe, to any Perſon for the Inhauncing of the Price, or Dear Selling of the ſame, Diſſwading any Per<g ref="char:EOLhyphen"/>ſon from Bringing his or her Corn to any of the ſaid Markets, Fairs, Cities, Ports, Havens or Creeks, to be Sold, ſhall be Adjudged a Foreſtalling. And by the ſame Act it is Declared, That the Buying of Corn in any Fair or Market, and Selling the ſame in any Fair or Market held in the ſame Place, or within Four Miles there<g ref="char:EOLhyphen"/>of, ſhall be Adjudged Regrating. And by the ſame Act it is likewiſe Declared, That the Buying or Contracting for any Corn, to Sell the ſame again otherwiſe than as is herein after Mentioned, ſhall be Adjudged an Vnlawful Ingroſſing, (that is to ſay) Buying of Barley, Bigg or Oates, (Except by Foreſtalling) to be Converted into Malt or Oat-meal in the Houſe of the Buyer; Or the Taking of any Corn reſerved without Fraud, upon any Leaſe for Term of any Life or Years; Or the Buying of any Corn (Except by Foreſtalling) by any Badger, Lad<g ref="char:EOLhyphen"/>der, Kidder, or Carrier, who ſhould be Licenſed ſo to do, and who ſhould ſell the ſame to any Victualler or other Per<g ref="char:EOLhyphen"/>ſon, for the Proviſion of his or their Houſes, within one Month after the ſame was ſo firſt Bought; Or the com<g ref="char:EOLhyphen"/>mon Proviſion made of Corn by Perſon for any City, Borough or Town Corporate; Or for Proviſion (Ex<g ref="char:EOLhyphen"/>cept by Foreſtalling) for Victualling any Ship, ſhall not be Iudged an Offence againſt the ſaid Statute; Nor the Buying of Corn (Except by Fore<g ref="char:EOLhyphen"/>ſtalling) by any Perſon Licenſed ſo to do, to be Tranſported by Water from any Port or Place within this Realm or <hi>Wales,</hi> unto any other Port or Place within this Realm, ſo that the ſame he without Fraud Shipped within Fourty Days after the ſame ſhall be Bought, and Carried with ſuch Expedition as the Wind and Weather would Serve, to the Port the Cocquet of the ſame ſhall Declare, and there to Disbarque and Sell the ſame, and Bring a Cer<g ref="char:EOLhyphen"/>tificate thereof from a Iuſtice of the Peace of the County, or Mayor, or Bayliff of the Town, and of the Cuſtomer of the Port of the Place, and Day where the Corn was Vnladed and Sold, to the Cuſtomer and Comptroller of the Port where the ſame was Shipped; Nor the Ingroſſing of Corn, when under the Prices in the ſaid Act Mentioned; which ſince by an Act made in the Fifteenth Year of the Reign of King <hi>Charles</hi> the Second, are Inlarged to be Wheat at Fourty Eight Shillings, Rye, Peaſe and Beans, Thirty two Shillings, Barley, Malt and Buck Wheat, Twenty eight Shillings, and Oats, Thirteen Shil<g ref="char:EOLhyphen"/>lings and Four Pence the Quarter. The Puniſhments of which ſaid Offences were Enacted to be, for the firſt Offence Impriſonment for Two Months without Bail or Mainprize, and Forfeiture of the Corn ſo Bought or Contracted for; for the ſecond Offence Impriſonment for the ſpace of half a Year without Bail or Mainprize, and Loſs of Double the Value of the Corn ſo Bought or Contracted for; and for the third Offence Setting in the Pillory in the Place where the Offender ſhall Dwell, and Forfeiture of all his Goods and Chattels, and Impriſonment during the Kings Pleaſure; the one Moiety of all which Forfeitures was to be to the King, and the other Moiety to him that would Sue for the ſame; but the whole Forfeiture to be to the King where the Conviction ſhould be at the Kings Suit only. And it was thereby likewiſe Enacted, That if any Perſon, having ſufficient Corn for Proviſion of his Houſe and Sowing of his Ground for one Year, did Buy any Corn in any Fair or Market, for the Change of his Seed, and did not Bring to the ſame Fair or Market the ſame Day ſo much Corn as he Bought for his Seed, and Sell the ſame, if he could, at the Price the ſame then went in the ſaid Fair or Market, that he ſhould Forfeit double the Value of the Corn ſo Bought: All which ſaid Offences the Iuſtices of the Peace at the Quarter Seſſions for the County where ſuch Offences ſhall be Committed, have Power to Hear and Determin. And whereas by an Act made in the Fifth Year of the Reign of Queen <hi>Elizabeth,</hi> it was Enacted, That no Badger, Ladder, Kidder, Carrier, or Tranſporter of Corn, ſhould be Licenſed but in the General Quarter Seſſions for the County where ſuch Perſon ſhould ſo Dwell, and had Dwelt for the ſpace of Three Years before the Date of his Li<g ref="char:EOLhyphen"/>cence, and was then or had been a Married Man, and was, at the time of ſuch Licence, a Houſholder, and not a Servant or Retainer to any Perſon, and of the Age of Thirty Years; which Licences were to continue but for a Year, and ſhould be Signed and Sealed by Three of the Iuſtices then preſent, whereof one to be of the <hi>Quorum,</hi> on Pain of ſuch Perſon Taking ſuch Licence Forfeiting Five Pounds, and the Licences not Taken purſu<g ref="char:EOLhyphen"/>ant to the ſaid Act are by the ſame Declared to be Void. And the ſaid Iuſtices by the ſaid Act were Impowered to take Bond and Surety by Recogni<g ref="char:EOLhyphen"/>zance of the Perſon Licenſed, That he ſhould not Foreſtall or Ingroſs, or otherwiſe Practice contrary to the ſaid Statute of <hi>Edward</hi> the Sixth. And it was likewiſe Provided by the ſaid Act, That no Perſon ſhould Buy any Grain out of Open Fair or Market, unleſs ſuch Perſon was thereunto Licenſed by Special Order and Expreſs Words, upon Pain of Forfeiting Five Pounds; the Offences of which Act the ſaid Iuſtices of the Peace at the Quarter Seſſions for the County, where ſuch Offences ſhall be committed, have likewiſe Power to Hear and Determine. And whereas the Prices of Corn do already Exceed the Rates in the ſaid Act of King <hi>Charles</hi> the Second, and is likely to grow much dearer, to the great Op<g ref="char:EOLhyphen"/>preſſion of the Poor, in part becauſe the ſaid Acts are not duly put in Execution, if the ſame be not timely prevented: Wherefore, and foraſmuch as it will much Conduce to the Good and Benefit of His Majeſties Subjects, and Relief of the Poor eſpecially, that the ſaid Laws, and that all the Laws in Force for ſetting the Poor or Work throughout this Kingdom, ſhould be duly put in Execution, We have thought fit, by the Advice of His Majeſties moſt Honourable Privy Council, to Iſſue this Proclamation; And We do hereby Charge and Command all and every His Majeſties Iudges, Iuſtices of the Peace, Mayors, Sheriffs, Bailiffs, and all other Magiſtrates, Officers and Miniſters whatſoever, and whereſoever, within this Kingdom, Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> that they and every of them, within their reſpective Places and Iu<g ref="char:EOLhyphen"/>risdictions, do cauſe the ſaid Acts made in the Fifth and Sixth Years of King <hi>Edward</hi> the Sixth, and the ſaid other Act made in the Fifth Year of the Reign of Queen <hi>Elizabeth,</hi> and all other Acts relating to the ſame Matters, and all Laws now in Force for Setting the Poor on Work, to be in all and every the Parts and Branches thereof put in Speedy and Effectual Execution; And that they do take Care that no Licence be Granted to any Badger, Ladder, Kidder, Carrier or Buyer of Corn or Grain, but according to the Directions of thoſe Acts, and to ſuch Perſons as are or ſhall be Qualified for the ſame, and under ſuch Surety as thoſe Acts Require; And that they do take care that all Offenders againſt the ſaid Acts be effectually Proſecuted according to the Purport of the ſaid Acts. And We do hereby Require and Charge all His Majeſties Offi<g ref="char:EOLhyphen"/>cers, Miniſters, and Loving Subjects whatſoever, to be Aiding and Aſſiſting in the due Execution of this Proclamation, on pain of His Maje<g ref="char:EOLhyphen"/>ſties High Diſpleaſure, and of ſuch Pains and Puniſhments as may by Law be inflicted upon the Contemners of His Majeſties Royal Authority.</p>
+            <closer>
+               <dateline>Given at <hi>Whitehall,</hi> 
+                  <date>the Thirteenth Day of <hi>October,</hi> 1698. In the Tenth Year of His Majeſties Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
